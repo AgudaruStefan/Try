@@ -10,7 +10,7 @@ def handle_request(request):
 
 urlpatterns = [
     path('hello', handle_request),
-    ]awdadwdawad
+    ]1111
 
 
 
